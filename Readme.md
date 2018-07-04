@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Tatiana Karlin](https://up.htmlacademy.ru/htmlcss/19/user/223821).
-* Наставник: `Без наставника`.
+* Наставник: `Без наставника - skfjlsfjslfk`.
 
 ---
 
